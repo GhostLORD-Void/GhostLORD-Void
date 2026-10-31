@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">GhostLORD-Void monogram</title><desc id="desc">Angular GV monogram in violet and cyan on a near-black field.</desc>
+<rect width="512" height="512" rx="72" fill="#080811"/>
+<path d="M256 62 425 160v192L256 450 87 352V160Z" fill="none" stroke="#25253A" stroke-width="8"/>
+<path d="M225 150h-61l-49 49v114l49 49h61l38-38v-70h-72v40h28v13l-13 13h-25l-25-25v-82l25-25h44Z" fill="#A855F7"/>
+<path d="M278 150h55l65 212h-49l-13-48h-63l-13 48h-47Zm47 124-20-75-20 75Z" fill="#22D3EE"/>
+<path d="M104 410h304" stroke="#A855F7" stroke-width="5" opacity=".8"/>
+</svg>
