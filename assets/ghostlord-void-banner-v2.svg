@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05040c"/><stop offset=".52" stop-color="#16052c"/><stop offset="1" stop-color="#030712"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a855f7"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8b5cf6" stroke-opacity=".15"/></pattern>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".55"><path d="M0 70H190l28 28h90M1200 70h-150l-35 35H930M0 260h220l35-35h80M1200 260h-210l-32-32h-70"/></g>
+<g filter="url(#glow)" fill="none" stroke="#a855f7" stroke-width="3" opacity=".8"><path d="M820 35l-25 40h25l-18 42 55-58h-27l20-24z"/><circle cx="1080" cy="150" r="90" stroke-opacity=".3"/><circle cx="1080" cy="150" r="72" stroke-opacity=".5"/></g>
+<g text-anchor="middle" font-family="Arial,sans-serif"><text x="420" y="120" fill="#f8fafc" font-size="68" font-weight="900" letter-spacing="3">GHOSTLORD</text><text x="420" y="184" fill="#c084fc" font-size="56" font-weight="900" letter-spacing="8">VOID</text><text x="420" y="230" fill="#e2e8f0" font-size="18" letter-spacing="5">BUILD  •  AUTOMATE  •  SECURE  •  INNOVATE</text></g>
+<g transform="translate(925 72)" filter="url(#glow)"><path d="M80 5l18 25 30 5-20 22 5 30-33-14-33 14 5-30-20-22 30-5z" fill="#1e0b3c" stroke="#c084fc" stroke-width="3"/><path d="M47 75q33-55 66 0l18 62H29z" fill="#080611" stroke="#a855f7" stroke-width="3"/><path d="M52 87l20 9 8-14 8 14 20-9" fill="none" stroke="#22d3ee" stroke-width="4"/><path d="M60 108h12m16 0h12" stroke="#c084fc" stroke-width="5" stroke-linecap="round"/></g>
+<g fill="#c4b5fd" font-family="Arial,sans-serif" font-size="15" letter-spacing="2"><text x="70" y="75">AI DEVELOPMENT</text><text x="70" y="103">DEFENSIVE SECURITY</text><text x="70" y="131">OPEN SOURCE</text><text x="70" y="159">PYTHON • MCP • AUTOMATION</text></g>
+<path d="M0 300H1200" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+</svg>
