@@ -1,14 +1,25 @@
 # GhostLORD-Void Brand Guide
 
+## Brand identity
+
+**Primary identity:** GhostLORD-Void
+**Ecosystem descriptor:** Professional AI & Cybersecurity Developer Ecosystem
+**Core tagline:** BUILD INTELLIGENT. SECURE BY DESIGN.
+**Supporting descriptor:** AI DEVELOPMENT · CYBERSECURITY · AUTOMATION · OPEN SOURCE
+
 ## Positioning
-Independent AI developer and defensive cybersecurity builder focused on Python, AI agents, automation, and open source.
 
-## Core message
-**BUILD INTELLIGENT. SECURE BY DESIGN.**
+GhostLORD-Void is an independent developer ecosystem bringing together practical AI development, defensive cybersecurity, responsible automation, and open-source engineering. The identity represents a collection of projects, experiments, tools, and documentation—not a claim of certification, commercial scale, or guaranteed security outcomes.
 
-Supporting descriptor: **AI • CYBERSECURITY • AUTOMATION**
+## Brand pillars
+
+1. **Practical AI** — model integrations, agent workflows, and MCP-based tools.
+2. **Defensive security** — secure configuration, authorized testing, and responsible research.
+3. **Responsible automation** — useful workflows built around documented APIs and legitimate access.
+4. **Open engineering** — maintainable code, clear documentation, and testable changes.
 
 ## Visual system
+
 | Token | Value | Use |
 |---|---|---|
 | Void | `#080811` | Primary background |
@@ -20,8 +31,19 @@ Supporting descriptor: **AI • CYBERSECURITY • AUTOMATION**
 Use near-black surfaces, restrained violet/cyan highlights, angular geometry, and monospace technical labels. Keep contrast high and layouts readable.
 
 ## Voice
-Concise, technical, confident, and evidence-led. Describe work accurately. Avoid unverifiable claims such as “unhackable”, “elite hacker”, or guaranteed protection.
+
+Concise, technical, confident, and evidence-led. Describe capabilities accurately. Avoid unverifiable claims such as “unhackable”, “elite hacker”, or guaranteed protection.
 
 ## Asset usage
-- `assets/ghostlord-void-mark.svg`: avatar, favicon, or compact mark.
-- `assets/ghostlord-void-banner.svg`: GitHub profile banner and social header.
+
+- `assets/ghostlord-void-mark.svg`: compact brand mark.
+- `assets/ghostlord-void-banner.svg`: original GitHub/social header.
+- `assets/ghostlord-void-banner-v2.svg`: current preferred GitHub profile banner.
+- `assets/ghostlord-avatar.svg`: avatar artwork asset.
+
+## Consistency rules
+
+- Use **GhostLORD-Void** as the canonical spelling.
+- Use **Professional AI & Cybersecurity Developer Ecosystem** as the ecosystem descriptor.
+- Keep project descriptions factual and aligned with their actual implementation status.
+- Never publish credentials, private user data, or unsupported security claims.
