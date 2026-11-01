@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs><radialGradient id="bg"><stop stop-color="#32105d"/><stop offset="1" stop-color="#05040b"/></radialGradient><linearGradient id="ring"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="256" cy="256" r="250" fill="url(#bg)"/><circle cx="256" cy="256" r="235" fill="none" stroke="url(#ring)" stroke-width="12" filter="url(#g)"/>
+<path d="M145 170l30-72 39 36h84l39-36 30 72-25 50v140H170V220z" fill="#090611" stroke="#a855f7" stroke-width="9"/>
+<path d="M170 215q86-115 172 0l-18 123H188z" fill="#120a20" stroke="#7c3aed" stroke-width="6"/>
+<path d="M194 245l47 16-15 23-40-20zm124 0l-47 16 15 23 40-20z" fill="#a855f7" filter="url(#g)"/>
+<path d="M207 105l-18-48 40 28 27-62 27 62 40-28-18 48" fill="#18092c" stroke="#c084fc" stroke-width="9" stroke-linejoin="round"/>
+<path d="M220 320q36 35 72 0" fill="none" stroke="#22d3ee" stroke-width="7" stroke-linecap="round"/>
+<text x="256" y="405" fill="#f8fafc" font-family="Arial,sans-serif" font-size="35" font-weight="900" text-anchor="middle">GHOSTLORD</text><text x="256" y="447" fill="#c084fc" font-family="Arial,sans-serif" font-size="34" font-weight="900" letter-spacing="7" text-anchor="middle">VOID</text>
+</svg>
