@@ -1,56 +1,62 @@
 <div align="center">
-  <img src="assets/ghostlord-void-banner.svg" alt="GhostLORD-Void — Build Intelligent. Secure by Design." width="100%">
+  <img src="assets/ghostlord-void-banner-v2.svg" alt="GhostLORD-Void — Build, Automate, Secure, Innovate" width="100%">
 
-  # GhostLORD-Void
+  # GHOSTLORD-VOID
 
-  **AI Developer · Python · Automation · Defensive Cybersecurity**
+  **AI DEVELOPMENT · PYTHON · AUTOMATION · DEFENSIVE CYBERSECURITY**
 
-  *Building practical software with a focus on clarity, security, and useful automation.*
+  *Build intelligent tools. Secure by design. Ship with purpose.*
 
-  [Projects](#featured-projects) · [Technical focus](#technical-focus) · [Engineering principles](#engineering-principles) · [Contact](#contact)
+  [Projects](#featured-projects) · [Tech stack](#technical-focus) · [Principles](#engineering-principles) · [Contact](#contact)
 </div>
 
 ---
 
-## About
+## ◈ SYSTEM PROFILE
 
-I build and experiment with developer tools, AI integrations, automation workflows, and security-conscious software. My work focuses on turning ideas into understandable, testable projects with clear setup instructions and responsible defaults.
+I build practical developer tools, AI integrations, automation workflows, and security-conscious software. I value clear architecture, useful documentation, testable changes, and responsible defaults.
 
-- **Development:** Python, JavaScript, command-line tools, and APIs
-- **AI & integration:** MCP-based tooling, model-connected workflows, and practical agents
-- **Security:** defensive security concepts, secure configuration, and authorized testing
-- **Engineering:** documentation, version control, automated checks, and maintainable code
+| DOMAIN | FOCUS |
+|---|---|
+| AI & Agents | Model integrations · MCP · workflow automation |
+| Development | Python · JavaScript · APIs · CLI tools |
+| Security | Defensive security · secure configuration · authorized testing |
+| Engineering | Git · automated testing · documentation |
 
-## Featured projects
+## ◈ FEATURED PROJECTS
 
-| Project | Overview | Primary focus |
+| PROJECT | DESCRIPTION | FOCUS |
 |---|---|---|
-| [APEX Cyber Intelligence](https://github.com/GhostLORD-Void/apex-cyber-intelligence) | Security-oriented developer tooling and CLI/MCP experiments | Python · Security tooling |
+| [APEX Cyber Intelligence](https://github.com/GhostLORD-Void/apex-cyber-intelligence) | Security-oriented developer tooling and CLI/MCP experiments | Python · Security |
 | [REA Ω](https://github.com/GhostLORD-Void/rea-omega) | Python project with automated tests and security guidance | Python · Testing |
-| [UNIT-X2 Instagram MCP](https://github.com/GhostLORD-Void/unitx2-instagram-mcp.) | Read-only MCP scaffold designed around Meta's official Instagram Graph API | JavaScript · MCP · API integration |
+| [UNIT-X2 Instagram MCP](https://github.com/GhostLORD-Void/unitx2-instagram-mcp.) | Read-only MCP scaffold for Meta's official Instagram Graph API | JavaScript · MCP |
+| [GhostLORD-Void](https://github.com/GhostLORD-Void/GhostLORD-Void) | Brand identity, developer profile, and portfolio | Open Source |
 
-## Technical focus
+## ◈ TECHNICAL FOCUS
 
 ```text
-Languages       Python · JavaScript
-Interfaces      APIs · CLI · Model Context Protocol (MCP)
-Practices       Git · Automated testing · Documentation
-Priorities      Security · Reliability · Responsible automation
+LANGUAGES       Python · JavaScript · Shell
+AI & INTEGRATION MCP · APIs · model-connected workflows
+TOOLING         CLI · automation · developer utilities
+PRACTICES       Git · testing · documentation · secure configuration
 ```
 
-## Engineering principles
+## ◈ ENGINEERING PRINCIPLES
 
-1. **Security by default** — keep credentials out of source code and use environment-based configuration.
-2. **Authorized use only** — build for legitimate access, defensive work, and documented APIs.
-3. **Testable changes** — prefer small, reviewable updates with meaningful checks.
-4. **Clear documentation** — make setup, limitations, and intended use understandable.
-5. **Evidence over hype** — describe what a project does, not what it cannot prove.
+- **Secure by default** — secrets stay out of source code; configuration uses safe patterns.
+- **Authorized use only** — build for legitimate access, defensive work, and documented APIs.
+- **Reviewable changes** — prefer focused commits, tests, and clear pull requests.
+- **Document honestly** — state setup requirements, limitations, and intended use.
+- **Evidence over hype** — describe shipped functionality, not imaginary metrics.
 
-## Contact
+## ◈ CONTACT
 
 - GitHub: [@GhostLORD-Void](https://github.com/GhostLORD-Void)
-- Open an issue in the relevant repository for project questions or suggestions.
+- Project questions: open an issue in the relevant repository.
 
 <div align="center">
-  <sub>BUILD INTELLIGENT. SECURE BY DESIGN. · GHOSTLORD-VOID</sub>
+
+  **DREAM BIG. BUILD BEYOND.**
+
+  <sub>GHOSTLORD-VOID · BUILD INTELLIGENT. SECURE BY DESIGN.</sub>
 </div>
